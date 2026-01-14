@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1>Sai Prakash Chinnamsetti</h1>
+<strong>Hi there 👋,</strong><br>
+## 🧩 Skills
+<p>
+  <kbd>Python</kbd> 
+  <kbd>Go</kbd> 
+  <kbd>AWS</kbd> 
+  <kbd>GCP</kbd>
+  <kbd>Azure</kbd>
+  <kbd>React</kbd>
+</p>
 
-<!--
-**chinnamsettisaiprakash/chinnamsettisaiprakash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+**Email:** [chinnamsettisaiprakash@gmail.com](mailto:chinnamsettisaiprakash@gmail.com)  
+**GitHub:** [@chinnamsettisaiprakash](https://github.com/chinnamsettisaiprakash)  
+**LinkedIn:** [linkedin.com/in/chinnamsetti-sai-prakash](https://linkedin.com/in/chinnamsetti-sai-prakash/)  
+**Location:** Texas, United States 🌍
